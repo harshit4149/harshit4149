@@ -1,18 +1,13 @@
 ![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 <h1 align="center">Hi 👋, I'm Harshit Kumar</h1>
 <p align="left">
-  <a href="https://github.com/Ananya01Agrawal/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Ananya!;I%20Like%20to%20Explore%20new%20Coding%20Languages;I%20Love%20Coding%20❤;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
+  <a href="https://github.com/harshit4149/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Harshit!;I%20Like%20to%20Explore%20new%20Coding%20Languages;I%20Love%20Coding%20❤;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
 </p>
 <h3 align="center"> A Tech- Enthusisat </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya01agrawal&label=Profile%20views&color=0e75b6&style=flat" alt="ananya01agrawal" /> </p>
 <b><p align="center">
 
-
-
-# Hi there, I'm Harshit 👋
-
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, open-source contributions, and continuous learning.
 
 ## 🚀 About Me
 
