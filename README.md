@@ -4,11 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning advanced JavaScript concepts and exploring the world of TypeScript.
+- 🌱 I’m currently learning  Full stack Development .
 - 👯 I’m looking to collaborate on open-source projects and innovative web applications.
 - 🤔 I’m always looking for help with improving my coding skills and learning new technologies.
 - 💬 Ask me about web development, JavaScript, React, and Node.js.
-- 📫 How to reach me: [harshit4149@example.com](mailto:harshit4149@example.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ## 🛠️ Technologies & Tools
@@ -22,14 +21,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit4149&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit4149)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshit4149)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/harshit_4149_)
 
 ---
 
