@@ -8,6 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya01agrawal&label=Profile%20views&color=0e75b6&style=flat" alt="ananya01agrawal" /> </p>
 <b><p align="center">
 
+1. [Project 1](https://github.com/harshit4149/Leet-tracker) - A brief description of your project.
+2. [Project 2](https://github.com/harshit4149/project2) - A brief description of your project.
+3. [Project 3](https://github.com/harshit4149/project3) - A brief description of your project.
+
 
 ## 🚀 About Me
 
